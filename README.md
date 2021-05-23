@@ -31,7 +31,7 @@ The project is part of our [Open Information Initiative](https://www.leukemiaair
 
 # Motivation
 
-The motivation behind LeukemiaIMR was to create an application providing open information about Leukemia in Mixed Reality. Our [Open Information Initiative](https://www.leukemiaairesearch.com/research/open-information) is an important part of our Association, with the goals of decimating free information about Leukemia, spreading awareness and understanding about the disease.
+The motivation behind LeukemiaIMR was to create an application providing open information about Leukemia in Mixed Reality. Our [Open Information Initiative](https://www.leukemiaairesearch.com/research/open-information) is an important part of our Association, with the goals of disseminating free information about Leukemia, spreading awareness and understanding about the disease.
 
 &nbsp;
 
